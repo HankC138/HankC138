@@ -28,7 +28,7 @@ I am a Full Stack Developer :man_technologist: from Massachusetts
 
 - :zap: In my spare time, I sculpt in 3D using Zbrush and 3D print, mold, and cast my designs.
 
-- :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-CorbinCampbell-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/corbin-campbell/))
+- :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-CorbinCampbell-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/corbin-campbell/))
 </div>
 
 ---
