@@ -22,9 +22,9 @@
 <div id="aboutMe" align="left">
 I am a Full Stack Developer :man_technologist: from Massachusetts
 
-- :robot: I’m working as an Independent Software Engineer and contributing to both frontend and backend to build web applications.
-
-- :books: I try to always continue to learn new programming languages
+- :robot: I’m working as an Independent Full Stack Software Engineer building web applications
+  
+- :books: I'm always learning new languages and technologies
 
 - :zap: In my spare time, I sculpt in 3D using Zbrush and 3D print, mold, and cast my designs.
 
