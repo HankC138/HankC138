@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/corbin-campbell/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
