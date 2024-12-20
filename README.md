@@ -56,8 +56,6 @@ I am a Full Stack Developer :man_technologist: from Massachusetts
  
 </div>
 
----
-
 ### 📊 GitHub Stats :
-[![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=](https://streak-stats.demolab.com/?user=)hankc138&theme=violet-dark&hide_border=true&border_radius=10&fire=FF4800)](https://git.io/streak-stats)</br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hankc138&theme=violet-dark&hide_border=true&border_radius=10&fire=FF4800)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankc138&theme=radical&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)</br>
